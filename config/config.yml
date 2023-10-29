@@ -1,0 +1,6 @@
+app:
+  workers: 2
+
+logger:
+  level: "debug"  
+  path: "log.log"
